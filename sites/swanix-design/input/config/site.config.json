@@ -8,7 +8,7 @@
         "color": 1,
         "icon": "web-cpu"
     },
-    "domain": "https://swanix.org/docs",
+    "domain": "https://swanix.org/publii",
     "language": "en-gb",
     "spellchecking": false,
     "advanced": {
@@ -197,8 +197,8 @@
             "acl": "public-read"
         },
         "git": {
-            "url": "https://github.com/swanix/docs",
-            "branch": "main",
+            "url": "https://github.com/swanix/publii",
+            "branch": "gh-pages",
             "user": "sebastianserna",
             "password": "publii-git-password uuid-1756522933977-999342798",
             "commitAuthor": "Sebastian Serna",
@@ -236,5 +236,5 @@
         }
     },
     "theme": "prodocs",
-    "syncDate": 1756615383225
+    "syncDate": 1756675938225
 }
